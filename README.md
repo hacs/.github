@@ -1,2 +1,3 @@
 # .github
-Default Community Health Files for GitHub Repos
+
+Default Community Health Files for the HACS organization
